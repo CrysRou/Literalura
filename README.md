@@ -14,6 +14,7 @@ Al seleccionar la opcion dos del menu, se mostraran los registros de las busqued
 Si se elige la opcion numero 3, se mostraran un listado de los autores de los cuales se han realizado busquedas.
 ![imagen](https://github.com/user-attachments/assets/d1ba3cab-6142-4843-8874-4e76898f1ed7)
 Cuando se selecciona la opcion numero 4, se solicta un año en el cual se buscaran los autores que se encontraban con vida en dicho año.
+
 ![imagen](https://github.com/user-attachments/assets/6ceef2ea-6c8d-496c-bfd5-87ac4729922d)
 Al seleccionar la ultima opcion, el programa solicitara el idioma del cual se buscanran los registros de libros con el idioma seleccionado.
 ![imagen](https://github.com/user-attachments/assets/85aa652f-3b13-476d-b382-0ad87e2ec9c6)

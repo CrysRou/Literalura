@@ -8,7 +8,9 @@ La primer opcion del menu, solicita el nombre de algun libro para hacer una cons
 ![imagen](https://github.com/user-attachments/assets/9084db81-1d64-40de-b6a8-1a472e534676)
 
 Al seleccionar la opcion dos del menu, se mostraran los registros de las busquedas realizadas.
+
 ![imagen](https://github.com/user-attachments/assets/c98eb92b-b9cb-4e8b-b62f-48e941d344cb)
+
 Si se elige la opcion numero 3, se mostraran un listado de los autores de los cuales se han realizado busquedas.
 ![imagen](https://github.com/user-attachments/assets/d1ba3cab-6142-4843-8874-4e76898f1ed7)
 Cuando se selecciona la opcion numero 4, se solicta un año en el cual se buscaran los autores que se encontraban con vida en dicho año.
